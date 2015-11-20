@@ -1,0 +1,1 @@
+KindleHelper is a desktop utility that helps you manage the books on your Amazon Kindle device. You can categorize and move around your booke, as well as providing the means to backup your books.
